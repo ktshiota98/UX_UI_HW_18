@@ -1,0 +1,10 @@
+
+.flexContainer{
+    display: flex;
+    background-color: #8DAFC8;
+}
+.uiUx{
+    width: 33%;
+    margin:auto;
+    padding: 10px;
+}
